@@ -4,6 +4,8 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 
+//updated 
+
 <div>
 <?php
 $mysqli = new mysqli("localhost", "root", "wishpass", "wishlist");
